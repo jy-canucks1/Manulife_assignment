@@ -1,4 +1,4 @@
-# Prototype Web Development Team Project(WE Accelerate Program with Manulife)
+# Prototype Web Development Team Project  (WE Accelerate Program with Manulife)
 
 ## About this project
 This project contains two parts:
